@@ -18,9 +18,7 @@ namespace ClassMethodDemo
         public string Country { get; set; }
         public string Address { get; set; }
 
-
-
-
+        // deneme için yazıyorum
     }
 
 
