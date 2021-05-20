@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\MyDictionaryDemo.exe
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\MyDictionaryDemo.deps.json
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\MyDictionaryDemo.runtimeconfig.json
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\MyDictionaryDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\MyDictionaryDemo.dll
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\ref\MyDictionaryDemo.dll
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\bin\Debug\net5.0\MyDictionaryDemo.pdb
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.dll
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\ref\MyDictionaryDemo.dll
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.pdb
+C:\Users\HP\source\repos\ClassMethodDemo\MyDictionaryDemo\obj\Debug\net5.0\MyDictionaryDemo.genruntimeconfig.cache
