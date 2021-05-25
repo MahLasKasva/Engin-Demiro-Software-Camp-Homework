@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\bin\Debug\GameSystemDemo.exe.config
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\bin\Debug\GameSystemDemo.exe
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\bin\Debug\GameSystemDemo.pdb
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\obj\Debug\GameSystemDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\obj\Debug\GameSystemDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\obj\Debug\GameSystemDemo.exe
+C:\Users\HP\source\repos\ClassMethodDemo\GameSystemDemo\obj\Debug\GameSystemDemo.pdb
