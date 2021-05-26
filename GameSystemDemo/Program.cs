@@ -24,7 +24,7 @@ namespace GameSystemDemo
                 DateOfBirth = new DateTime(1999, 11, 23),
                 FirstName = "Recep",
                 LastName = "Pazarlı",
-                NationalyId = "22450529986"
+                NationalyId = "12345678901"
             };
 
             Console.WriteLine("1------------------------------");
